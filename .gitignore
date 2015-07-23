@@ -1,3 +1,6 @@
 /lib/
 /feedparser-clj-0.3.jar
-/pom.xml
+.idea
+.lein-failures
+*.iml
+/target/
