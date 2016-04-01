@@ -3,13 +3,13 @@
   <groupId>org.clojars.freemarmoset</groupId>
   <artifactId>feedparser-clj</artifactId>
   <packaging>jar</packaging>
-  <version>0.6.0</version>
+  <version>0.6.1</version>
   <name>feedparser-clj</name>
   <description>Parse RSS/Atom feeds with a simple, clojure-friendly API.</description>
   <scm>
     <connection>scm:git:git://github.com/freemarmoset/feedparser-clj.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/freemarmoset/feedparser-clj.git</developerConnection>
-    <tag>4af2db86e631be610be8d24cbb80f1e5d735a46d
+    <tag>44bffe01188a56e063f90ef3f657beecbce40fbf
 </tag>
     <url>https://github.com/freemarmoset/feedparser-clj</url>
   </scm>
@@ -67,7 +67,7 @@
       <version>2.0.2</version>
     </dependency>
     <dependency>
-      <groupId>org.clojars.freemarmoset</groupId>
+      <groupId>com.rometools</groupId>
       <artifactId>rome</artifactId>
       <version>1.6.0</version>
     </dependency>
